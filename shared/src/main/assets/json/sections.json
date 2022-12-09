@@ -1,0 +1,55 @@
+
+[
+
+  { "id": "section_1",
+    "title": "Birds",
+    "desc": "Canada Goose, owls, heron, etc.",
+    "image": "bird.png",
+    "parent": "root"
+  },
+
+  { "id": "section_2",
+    "title": "Animals",
+    "desc": "Bears, moose, wolf, caribou and others",
+    "image": "rabbit.png",
+    "parent": "root",
+    "type": "items"
+  },
+
+  { "id": "section_3",
+    "title": "Reptiles & Amphibians",
+    "desc": "Snakes, lizards, frogs, toads",
+    "image": "snake.png",
+    "parent": "root"
+  },
+
+  { "id": "section_4",
+    "title": "Fish",
+    "desc": "Trout, catfish, salmon, pike etc.",
+    "image": "fish.png",
+    "parent": "root"
+  },
+
+  { "id": "section_5",
+    "title": "Insects",
+    "desc": "Beetles, flies, mosquitoes, ants",
+    "image": "bug.png",
+    "parent": "root"
+  },
+
+  { "id": "section_6",
+    "title": "Plants",
+    "desc": "Maple, pine, birch, etc ",
+    "image": "pine-tree.png",
+    "parent": "root"
+  },
+
+  { "id": "section_7",
+    "title": "Mushrooms",
+    "desc": "Chanterelles, morels etc.",
+    "image": "mushroom.png",
+    "parent": "root"
+  }
+
+
+]

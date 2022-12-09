@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorImagePlaceholder">#178F8E8E</color>
+
+    <color name="primaryColor">#77CF97</color>
+    <color name="primaryLightColor">#88E1A9</color>
+    <color name="primaryDarkColor">#5DC683</color>
+    <!-- navbar-->
+    <color name="nav_bar_start">#5DC683</color>
+    <color name="nav_bar_end">#88E1A9</color>
+    <!-- accents-->
+    <color name="secondaryColor">#FF5F5F</color>
+    <color name="secondaryLightColor">#FB7A7A</color>
+    <color name="secondaryDarkColor">#FB5656</color>
+
+    <color name="primaryTextColor">#FFFFFF</color>
+    <color name="secondaryTextColor">#FFFFFF</color>
+
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorBackground">#F8F8F8</color>
+    <color name="colorSearchBackground">#FaFaFa</color>
+
+    <color name="colorText">#444</color>
+    <color name="colorTextDisabled">#7A444444</color>
+    <color name="colorOnSurface">#111</color>
+    <color name="colorOnBackground">@color/colorOnSurface</color>
+    <color name="colorError">#FF3B2D</color>
+    <color name="colorOnError">#FFFFFF</color>
+
+    <color name="colorDetailBtn">#C3757575</color>
+    <color name="colorDetailBtnTxt">#FFFFFF</color>
+
+
+</resources>
